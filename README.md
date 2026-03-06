@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Neev Mendpara</h1>
 <h3 align="center">🎓 CSE Student at IIIT Vadodara 💻 Passionate about Web Development, Data Science & AI</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neev-25" alt="neev-25" /></a> </p>
 
 - 🔭 I’m currently working on [AI-Powered Invoice Generator SaaS]
 
